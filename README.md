@@ -51,6 +51,14 @@ The excel workbook can be found in the folder /Rockbuster_SQL_queries/.
 
 # Analysis and Visualizations
 
+Visualizations were generated in Jupyter notebooks and can be found in /04_Analysis/Visualizations/.
+
+A final report was generated summarizing the steps taken in the analysis and the results and recommendations from the analysis.
+
+The report was saved in an excel workbook labeled 'A4_A_Howland_final_report' along with the results of the queries.
+
+The excel workbook can be found in the folder /05_Sent_to_client/.
+
 The results and recommendations from the analysis were highlighted in Tableau and can be found here:
 
 https://public.tableau.com/views/FoodDesertsinNewYorkState/NYSFoodDeserts?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
