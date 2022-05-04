@@ -55,11 +55,11 @@ Visualizations were generated in Jupyter notebooks and can be found in /04_Analy
 
 A final report was generated summarizing the steps taken in the analysis and the results and recommendations from the analysis.
 
-The report was saved in an excel workbook labeled 'A4_A_Howland_final_report' along with the results of the queries.
+The report was saved in an excel workbook labeled 'A_Howland_food_desert_NYS_final_report' along with the results of the queries.
 
 The excel workbook can be found in the folder /05_Sent_to_client/.
 
-The results and recommendations from the analysis were highlighted in Tableau and can be found here:
+The results and conclusions from the analysis were highlighted in Tableau and can be found here:
 
 https://public.tableau.com/views/FoodDesertsinNewYorkState/NYSFoodDeserts?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
@@ -68,6 +68,7 @@ https://public.tableau.com/views/FoodDesertsinNewYorkState/NYSFoodDeserts?:langu
 The data for this analysis was provided from the following sources:
 
 * USDA Economic Research Service Food Access Research Atlas (https://www.ers.usda.gov/data-products/food-access-research-atlas.aspx)
+* Cornell University Geospatial Information Repository (https://cugir.library.cornell.edu/catalog/cugir-007865)
 * USDA ERS Food Environment Atlas(https://www.ers.usda.gov/data-products/food-environment-atlas/)
 * NYS Department of Health, Fiscal Management Group, FSSU, Data Management (https://www.health.ny.gov/statistics/health_care/medicaid/quarterly/ssd/)
 * USDA ERS Food Expenditure Series ( https://www.ers.usda.gov/data-products/food-expenditure-series/)
