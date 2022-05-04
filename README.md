@@ -1,6 +1,6 @@
 # Food-Deserts-in-NY-State-Analysis
 Using Jupyter and Python to query and analyze datasets provided by the US Department of Agriculture and New York State Department of Health that contain information 
-about low-income and other census tracts using different measures of supermarket accessibility, provides food access data for populations within census tracts, location 
+about low-income and other census tracts using different measures of supermarket accessibility, provide food access data for populations within census tracts, location 
 of grocery stores and super centers in NY counties, and benefit information regarding NY State Medicaid beneficiaries.
 Visualizations of the results of the analysis were created in Tableau.
 
