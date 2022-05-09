@@ -45,7 +45,7 @@ Data pertaining to average monthly Medicaid beneficiary amounts per NY State cou
 
 # Code Execution
 
-Scripts were run in Python.  The queries that produced the parameters identified above were saved in an excel workbook labeled 'rockbuster_data' along with the results of the queries.  
+Scripts were run in Jupyter notebooks using Python.  
 
 # Analysis and Visualizations
 
