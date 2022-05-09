@@ -47,8 +47,6 @@ Data pertaining to average monthly Medicaid beneficiary amounts per NY State cou
 
 Scripts were run in Python.  The queries that produced the parameters identified above were saved in an excel workbook labeled 'rockbuster_data' along with the results of the queries.  
 
-The excel workbook can be found in the folder /Rockbuster_SQL_queries/.  
-
 # Analysis and Visualizations
 
 Visualizations were generated in Jupyter notebooks and can be found in /04_Analysis/Visualizations/.
